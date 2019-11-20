@@ -87,7 +87,7 @@ getting ridiculous*/
 /* site header image positioning
 and text resize */
 header h1 {
-  background-image: url(/imgs/snowflake-header.svg);
+  background-image: url(../imgs/snowflake-header.svg);
   background-repeat: no-repeat;
   background-position: 50% 10%;
   background-size: cover;
@@ -102,7 +102,7 @@ header h1 {
 and change the colour to indicate
 that it is a link to the user */
 header h1:hover {
-  background-image: url(/imgs/snowflake-header-hover.svg);
+  background-image: url(../imgs/snowflake-header-hover.svg);
 }
 
 header {
