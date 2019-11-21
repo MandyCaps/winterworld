@@ -216,8 +216,8 @@ vertically */
 /* define gallery for food and rides sections */
 .gallery img {
   display: inline-block;
-  height: 100px;
-  width: 100px;
+  height: 150px;
+  width: 150px;
   min-width: 100px;
 }
 
